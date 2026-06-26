@@ -54,21 +54,14 @@ Atuo de ponta a ponta no ciclo de desenvolvimento: desde o design de arquitetura
 
 ---
 
-## 📌 O que eu construo
-
-- **Plataformas SaaS fullstack** com Next.js, Supabase e processamento assíncrono (Trigger.dev)
-- **APIs RESTful performáticas** em Node.js/TypeScript com modelagem relacional e Row Level Security (RLS)
-- **Aplicações mobile cross-platform** com React Native e Expo, integradas a backends escaláveis
-- **Agentes de IA** com LangChain, LangGraph e pipelines RAG sobre bancos vetoriais
-- **Dashboards analíticos** com ClickHouse para grandes volumes de dados
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelAndradeSW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAndradeSW&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -82,7 +75,3 @@ Atuo de ponta a ponta no ciclo de desenvolvimento: desde o design de arquitetura
 | Pós-graduação em Análise de Dados | UFMA | 2025 - 2025 |
 
 ---
-
-<div align="center">
-  <i>"Building scalable systems, one commit at a time."</i>
-</div>
