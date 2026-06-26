@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Samuel Andrade 👋</h1>
+  <h1>Olá, eu sou o Samuel 👋</h1>
   <p><strong>Fullstack Software Engineer</strong> | SaaS · APIs · Cloud · AI Agents</p>
   <p>
     <a href="https://linkedin.com/in/samuel-andrade1" target="_blank">
